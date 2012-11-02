@@ -1,5 +1,3 @@
-hoge
+
 test GitHub
 ====
-
-test
